@@ -1,3 +1,31 @@
 {
-  "python.pythonPath": "D:\\ProgramData\\Anaconda3\\envs\\speech_recog\\python.exe"
+  "python.pythonPath": "D:\\ProgramData\\Anaconda3\\envs\\speech_recog\\python.exe",
+  "cSpell.words": [
+    "Keras",
+    "MFCC",
+    "MSVC",
+    "SAPI",
+    "SSFM",
+    "comtypes",
+    "conda",
+    "dmfccfeature",
+    "fbankfeature",
+    "getnchannels",
+    "getnframes",
+    "imshow",
+    "infile",
+    "logfbank",
+    "mfccfeatures",
+    "pyaudio",
+    "pyplot",
+    "pyttsx",
+    "pywin",
+    "samp",
+    "scipy",
+    "setnchannels",
+    "streamlit",
+    "wavfile",
+    "xlabel",
+    "ylabel"
+  ]
 }

@@ -7,6 +7,9 @@
 - conda install -c anaconda pywin322
 - conda install comtypes
 - pip install pyttsx3
+- pip install streamlit
+- conda install pyaudio
+  - for recording audio
 
 ## Links
 
