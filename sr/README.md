@@ -10,6 +10,8 @@
 - pip install streamlit
 - conda install pyaudio
   - for recording audio
+- conda install -c conda-forge librosa
+  - Another Python Audio Library
 
 ## Links
 
@@ -22,3 +24,5 @@
     - <https://www.signalogic.com/index.pl?page=speech_codec_wav_samples>
   - Mono Audio Samples
     - <http://www0.cs.ucl.ac.uk/teaching/GZ05/samples/>
+- Librosa
+  - <https://medium.com/@patrickbfuller/librosa-a-python-audio-libary-60014eeaccfb>

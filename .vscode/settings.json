@@ -14,6 +14,7 @@
     "getnframes",
     "imshow",
     "infile",
+    "librosa",
     "logfbank",
     "mfccfeatures",
     "pyaudio",
@@ -26,6 +27,7 @@
     "streamlit",
     "wavfile",
     "xlabel",
-    "ylabel"
+    "ylabel",
+    "numpy"
   ]
 }
